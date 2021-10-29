@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prajwal Aithal
+- 👀 I Work on data all the time
+- 💞️ I’m looking to collaborate on data analytics roles
+- 📫 Reach me on Linkedin ... https://www.linkedin.com/in/prajwalaithal25/
